@@ -17,7 +17,7 @@ I am a Ph.D. student in [Department of Computer Science and Technology](https://
 
 ## Publications
 
-+ **Xiran Wang**, Jian Zhang, Lei Qi, Yinghuan Shi. “[Generalizable Decision Boundaries: Dualistic Meta-Learning for Open Set Domain Generalization.](https://zzwdx.github.io)” International Conference on Computer Vision (*ICCV*), 2023.
++ **Xiran Wang**, Jian Zhang, Lei Qi, Yinghuan Shi. [Generalizable Decision Boundaries: Dualistic Meta-Learning for Open Set Domain Generalization.](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Generalizable_Decision_Boundaries_Dualistic_Meta-Learning_for_Open_Set_Domain_Generalization_ICCV_2023_paper.html) International Conference on Computer Vision (*ICCV*), 2023.
 
 
 
