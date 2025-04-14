@@ -21,6 +21,10 @@ I am a Ph.D. student in [Department of Computer Science and Technology](https://
 
 + **Xiran Wang**, Jian Zhang, Lei Qi, Yinghuan Shi. [Balanced Direction from Multifarious Choices: Arithmetic Meta-Learning for Domain Generalization.](https://zzwdx.github.io) Conference on Computer Vision and Pattern Recognition (*CVPR*), 2025.
 
+## Services
+
+Discrete Mathematics Exercise Session (Spring 2024, 2025) in Nanjing University.
+
 
 
 
