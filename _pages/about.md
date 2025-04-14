@@ -23,7 +23,8 @@ I am a Ph.D. student in [Department of Computer Science and Technology](https://
 
 ## Services
 
-Discrete Mathematics Exercise Session (Spring 2024, 2025) in Nanjing University.
++ Discrete Mathematics Exercise Session, Spring 2024.
++ Discrete Mathematics Exercise Session, Spring 2025.
 
 
 
